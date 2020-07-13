@@ -4,4 +4,4 @@ def greeting(name)
   puts "Hello, #{name}"
 end
 
-say_hello("Gabriela")
+greeting("Gabriela")
